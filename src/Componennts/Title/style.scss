@@ -1,0 +1,17 @@
+.header{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 15rem;
+    display: block;
+    font-family: -apple-system, system-ui;
+    font-weight: 100;
+    >h1{
+        font-size: 3rem;
+        font-family: 'Righteous';
+    }
+    >p{
+        font-size: 1.5rem;
+    }
+}
